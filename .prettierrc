@@ -2,8 +2,9 @@
   "useTabs": false,
   "trailingComma": "all",
   "singleQuote": true,
-  "printWidth": 140,
+  "printWidth": 120,
   "bracketSpacing": true,
   "arrowParens": "avoid",
+  "jsxBracketSameLine": false,
   "htmlWhitespaceSensitivity": "ignore"
 }
