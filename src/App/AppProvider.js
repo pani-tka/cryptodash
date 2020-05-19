@@ -111,6 +111,7 @@ export class AppProvider extends React.Component {
       },
       () => {
         this.fetchPrices();
+        this.fetchCoins();
         this.fetchHistorical();
       },
     );
